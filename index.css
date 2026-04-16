@@ -1,22 +1,7 @@
-h1{
-color:blue;
-background-color: yellow;
+#paragrafo{
 
-}
-h2{
-  color: red;
-  background-color: gray;
-  
-}
-
-h3{
-  color: yellow;
-  background-color: brown;
+text-transform: uppercase;
 
 }
 
-p{
-    color: gray;
-    background-color: magenta;
 
-}
